@@ -1,0 +1,14 @@
+BOS	det	0.71
+BOS	n	0.29
+det	n	1
+n	v	0.32
+n	n	0.1
+n	p	0.33
+v	n	0.37
+v	det	0.54
+v	p	0.09
+p	det	0.62
+p	n	0.38
+n	EOS	1
+p	EOS	1
+v	EOS	1

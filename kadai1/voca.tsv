@@ -1,0 +1,12 @@
+an	det	0.36
+an	n	0.001
+flies	n	0.025
+flies	v	0.076
+times	n	0.063
+times	v	0.012
+arrow	n	0.076
+like	n	0.012
+like	v	0.1
+like	p	0.068
+BOS	BOS	1
+EOS	EOS	1
